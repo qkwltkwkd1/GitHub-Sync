@@ -1,30 +1,30 @@
 # 🚀 GitHub-Sync (깃허브싱크)
 GitHub 활동 데이터를 분석하여 개인의 학습 패턴을 시각화하고, 효율적인 기술 스택 관리를 돕는 아카이브 시스템 
-# 📌 Project Overview
-## 배경 (Background)
+## 📌 Project Overview
+### 배경 (Background)
 * 여러 프로젝트를 진행하고 있지만, 자신의 기술 스택 성장 과정을 한눈에 파악하고 관리하는 데 어려움이 있습니다. 
 * 3학년 전공생으로서 늘어나는 프로젝트와 학습량을 체계적으로 관리하고 포트폴리오화할 필요성을 느꼈습니다. 
-## 목적 (Purpose)
+### 목적 (Purpose)
 * GitHub 커밋 로그를 분석하여 주간 학습 레포트를 생성하고, 부족한 기술 스택을 시각화하여 보여줍니다. 
 * 개발자가 자신의 기술적 성장을 객관적으로 파악하게 함으로써, 향후 취업을 위한 포트폴리오 기초 자료로 활용합니다. 
-# ✨ Key Features
-1. ## GitHub API 기반 실시간 데이터 동기화
+## ✨ Key Features
+1. ### GitHub API 기반 실시간 데이터 동기화
    * OAuth 2.0 인증을 통한 보안성 확보
    * GitHub REST API를 호출하여 Repository 정보 및 Commit 로그 수집
-2. ## 기술 스택 분석
+2. ### 기술 스택 분석
    * 코드 언어 비중 분석 및 '주력 언어', '학습 중인 기술' 차트 시각화
-3. ## 프로젝트 회고 관리
+3. ### 프로젝트 회고 관리
    * 각 프로젝트나 커밋에 대한 간단한 학습 노트 및 회고 작성
-4. ## 개인 맞춤형 목표 관리
+4. ### 개인 맞춤형 목표 관리
    * 주간 커밋 목표치 설정 및 달성 시 대시보드 내 시각적 보상 제공
-# 🔍 Competitive Analysis
+## 🔍 Competitive Analysis
 * GitHub Insights: 통계 기능은 제공하나 개인 학습 노트나 커스텀 대시보드가 부족함 
 * Toggl / RescueTime: 시간 관리 도구일 뿐, 개발 지표(코드, 커밋)와 연동되지 않아 학습 효율 분석에 한계가 있음 
 * WakaTime: 코딩 시간을 추적하지만 프로젝트별 학습 기록이나 회고 관리 기능이 미비함 
-# 📅 Development Schedule
+## 📅 Development Schedule
 * 기간: 2026년 3월 14일 ~ 2026년 6월 6일 (약 3개월) 
 * 담당: 양지우 (기획, 프론트엔드 및 백엔드 개발) 
-# 🛠 Tech Stack (To be updated)
+## 🛠 Tech Stack (To be updated)
 * Frontend: React / JavaScript
 * Backend: Kotlin
 * Authentication: OAuth 2.0 (GitHub)
